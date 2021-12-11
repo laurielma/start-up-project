@@ -1,0 +1,72 @@
+.card {
+	width: 46.5%;
+	height: 250px;
+	margin-left: 1%;
+	margin-bottom: 1%;
+	padding: 12px;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.3);
+	border-radius: 6px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	flex-flow: center;
+	color: white;
+	background-position: center;
+	text-align: center;
+}
+
+.card h2 {
+
+	flex-grow: 1;
+	margin-left: 20px;
+}
+
+.card a {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+	margin-right: 20px;
+}
+
+#Earth{
+	background-image: url("../../images/earth.jpeg");
+}
+
+#Moon{
+	background-image: url("../../images/moon.jpeg");
+}
+
+#Jupiter{
+	background-image: url("../../images/jupiter.jpeg");
+}
+
+#Mars{
+	background-image: url("../../images/mars.jpeg");
+}
+
+#Sun{
+	background-image: url("../../images/sun.jpeg");
+}
+
+#Stars{
+	background-image: url("../../images/stars.jpeg");
+}
+
+#planet1{
+	background-image: url("../../images/planet1.jpeg");
+}
+
+#planet2{
+	background-image: url("../../images/planet2.jpeg");
+}
+
+#planet3{
+	background-image: url("../../images/planet3.jpeg");
+}
+
+#planet4{
+	background-image: url("../../images/planet4.jpeg");
+}
+
+#BITCOIN{
+	background-image: url("../../images/btc.webp");
+}
